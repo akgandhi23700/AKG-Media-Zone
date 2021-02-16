@@ -1,7 +1,7 @@
 # AKG Media Zone
 
-* AKG Media Zone is a 'Freeware' and may show ads from Adsense, We 'do not enable annoying pop-up ads'.
-* Content here is not monitored, This is just an Index. For 'DMCA' contact respected site owners.
+* AKG Media Zone is a `Freeware` and may show ads from Adsense, We `do not enable annoying pop-up ads`.
+* Content here is `not monitored`, This is just an Index. For `DMCA` contact respected site owners.
 
 
 [![Screenshot](https://i.imgur.com/TrNL34U.png)](https://Media.akgzone.in)
@@ -9,14 +9,14 @@
 
 ## Features
 
-* Video Player - | mp4 | webm | avi | mpg | mpeg | mkv | rm | rmvb | mov | wmv | asf | ts | flv
+`* Video Player - | mp4 | webm | avi | mpg | mpeg | mkv | rm | rmvb | mov | wmv | asf | ts | flv
 * Music Player - | mp3 | flac | wav | ogg | m4a
-* Document Viewer - | html | php | css | go | java | js | json | txt | sh | md | pdf
+`* Document Viewer - | html | php | css | go | java | js | json | txt | sh | md | pdf
 * Image Viewer - | bmp | jpg | jpeg | png | gif
-* Multi drive encryption
+`* Multi drive encryption
 * Mobile Friendly
-* Multi-level Search within the team drive
-* Dark Theme
+`* Multi-level Search within the team drive
+* Dark Theme`
 
 
 ## Upcoming Changes
