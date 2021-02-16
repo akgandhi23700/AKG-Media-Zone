@@ -111,7 +111,3 @@ const uiConfig = {
 * These Index's are written by someone else, possibly by donva and [maple3142](https://github.com/maple3142/GDIndex).
 * Beta Version is redesigned using Bootstrap from Alpha Version by @ParveenBhadooOfficial.
 * This Repo was imported from [yanzai](https://github.com/yanzai/goindex) and then modified for personal use. After requests from many users made compatible with user requirements.
-
-## Support this Project
-
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="AKG.Zone" data-color="#FFDD00" data-emoji="🍕"  data-font="Cookie" data-text="Buy me a pizza" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
