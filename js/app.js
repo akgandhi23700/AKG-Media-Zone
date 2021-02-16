@@ -94,48 +94,7 @@ function nav(path) {
       <li class="nav-item">
         <a class="nav-link" href="/${cur}:/">Home</a>
       </li>;
-      <li class="nav-item">
-        <a class="nav-link" href="">Home</a>
-      </li>`;
-	var names = window.drive_names;
-	var drive_name = window.drive_names[cur];
-	/*html += `<button class="mdui-btn mdui-btn-raised" mdui-menu="{target: '#drive-names'}"><i class="mdui-icon mdui-icon-left material-icons">share</i> ${names[cur]}</button>`;
-	html += `<ul class="mdui-menu" id="drive-names" style="transform-origin: 0px 0px; position: fixed;">`;
-	names.forEach((name, idx) => {
-	    html += `<li class="mdui-menu-item ${(idx === cur) ? 'mdui-list-item-active' : ''} "><a href="/${idx}:/" class="mdui-ripple">${name}</a></li>`;
-	});
-	html += `</ul>`;*/
-
-	// Dropdown to select different drive roots.
-	html += `<li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">${drive_name}</a><div class="dropdown-menu" aria-labelledby="navbarDropdown">`;
-	names.forEach((name, idx) => {
-		html += `<a class="dropdown-item"  href="/${idx}:/">${name}</a>`;
-	});
-	html += `</div></li>`;
-
-	html += `<li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Current Path</a><div class="dropdown-menu" aria-labelledby="navbarDropdown"><a class="dropdown-item"  href="/${cur}:/ ">> Home</a>`;
-
-	if (!model.is_search_page) {
-		var arr = path.trim('/').split('/');
-		var p = '/';
-		if (arr.length > 1) {
-			arr.shift();
-			for (var i in arr) {
-				var n = arr[i];
-				n = decodeURI(n);
-				p += n + '/';
-				if (p.endsWith(".mp3/") === true || p.endsWith(".mp4/") === true || p.endsWith(".mkv/") === true || p.endsWith(".flac/") === true || p.endsWith(".m4a/") === true || p.endsWith(".pdf/") === true || p.endsWith(".jpg/") === true || p.endsWith(".png/") === true || p.endsWith(".jpeg/") === true || p.endsWith(".gif/") === true || p.endsWith(".md/") === true || p.endsWith(".zip/") === true || p.endsWith(".rar/") === true || p.endsWith(".exe/") === true  || p.endsWith(".tar/") === true) {
-				    p = p.slice(0, -1);
-				}
-				if (n === '') {
-					break;
-				}
-				html += `<a class="dropdown-item"  href="/${cur}:${p}">> ${n}</a>`;
-			}
-		}
-	}
-
-	html += `</div></li><li class="nav-item">
+<li class="nav-item">
     <a class="nav-link" href="${UI.contact_link}" target="_blank">Contact</a>
   </li>`;
 
