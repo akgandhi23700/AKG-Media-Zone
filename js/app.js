@@ -94,6 +94,9 @@ function nav(path) {
       <li class="nav-item">
         <a class="nav-link" href="/${cur}:/">Home</a>
       </li>`;
+      <li class="nav-item">
+        <a class="nav-link" href="">Home</a>
+      </li>`;
 	var names = window.drive_names;
 	var drive_name = window.drive_names[cur];
 	/*html += `<button class="mdui-btn mdui-btn-raised" mdui-menu="{target: '#drive-names'}"><i class="mdui-icon mdui-icon-left material-icons">share</i> ${names[cur]}</button>`;
