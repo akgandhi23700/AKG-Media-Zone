@@ -4,6 +4,7 @@ function init() {
 <header >
    <div id="nav">
    </div>
+<script data-ad-client="ca-pub-2168199802246777" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 </header>
 <div>
 <div id="content">
