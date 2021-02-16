@@ -5,6 +5,7 @@ function init() {
 	document.siteName = $('title').html();
 	var html = `
 <header >
+<script data-ad-client="ca-pub-2168199802246777" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
    <div id="nav">
    </div>
 </header>
