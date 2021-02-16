@@ -93,7 +93,7 @@ function nav(path) {
     <ul class="navbar-nav mr-auto">
       <li class="nav-item">
         <a class="nav-link" href="/${cur}:/">Home</a>
-      </li>`;
+      </li>;
       <li class="nav-item">
         <a class="nav-link" href="">Home</a>
       </li>`;
