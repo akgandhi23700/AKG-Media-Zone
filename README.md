@@ -3,7 +3,7 @@
 * Supports Both My and Team/Shared Drives with Dark Mode.
 * Development Paused due to busy schedule.
 
-[![Screenshot](https://raw.githubusercontent.com/akgandhi23700/akgandhi23700.github.io/blob/main/images/AKG%20%20Media%20Zone.png)](https://Media.akgzone.in)
+[![Screenshot](https://i.imgur.com/TrNL34U.png)](https://Media.akgzone.in)
 
 `Note: The Changes in your workers config can effect later due to cache. Use incognito mode everytime to open the worker URL to overcome that issue.`
 
