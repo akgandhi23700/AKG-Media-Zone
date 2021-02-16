@@ -3,9 +3,7 @@
 * Supports Both My and Team/Shared Drives with Dark Mode.
 * Development Paused due to busy schedule.
 
-[![Screenshot](https://raw.githubusercontent.com/ParveenBhadooOfficial/Bhadoo-Drive-Index/master/images/beta-light-screenshot.png)](https://github.com/ParveenBhadooOfficial/Bhadoo-Drive-Index)
-
-[![Screenshot](https://raw.githubusercontent.com/ParveenBhadooOfficial/Bhadoo-Drive-Index/master/images/beta-dark-screenshot.png)](https://github.com/ParveenBhadooOfficial/Bhadoo-Drive-Index)
+[![Screenshot](https://github.com/akgandhi23700/akgandhi23700.github.io/blob/main/images/AKG%20%20Media%20Zone.png)](https://Media.akgzone.in)
 
 `Note: The Changes in your workers config can effect later due to cache. Use incognito mode everytime to open the worker URL to overcome that issue.`
 
