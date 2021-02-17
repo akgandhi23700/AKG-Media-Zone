@@ -4,31 +4,13 @@ function init() {
 <header >
    <div id="nav">
    </div>
-<center><script type="application/javascript">
-    var ad_idzone = "4188622",
-    ad_width = "900",
-    ad_height = "250",
-    cookieconsent = true;
-</script>
-<script type="application/javascript" src="https://a.realsrv.com/ads.js"></script>
-<noscript>
-    <iframe src="https://syndication.realsrv.com/ads-iframe-display.php?idzone=4188622&output=noscript" width="900" height="250" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
-</noscript></center>
+<center><iframe src="//a.realsrv.com/iframe.php?idzone=4188622&size=900x250" width="900" height="250" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe></center>
 </header>
 <div>
 <div id="content">
 </div>
 <br>
-<center><script type="application/javascript">
-    var ad_idzone = "4188628",
-    ad_width = "900",
-    ad_height = "250",
-    cookieconsent = true;
-</script>
-<script type="application/javascript" src="https://a.realsrv.com/ads.js"></script>
-<noscript>
-    <iframe src="https://syndication.realsrv.com/ads-iframe-display.php?idzone=4188628&output=noscript" width="900" height="250" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
-</noscript></center>
+<center><iframe src="//a.realsrv.com/iframe.php?idzone=4188628&size=900x250" width="900" height="250" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe></center>
 <br>
 <footer class="text-muted"> <div class="container">  <p class="float-right"> <a href="#">Back to top</a>  ${UI.credit ? '<p>Designed with <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-heart-fill" fill="red" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" d="M8 1.314C12.438-3.248 23.534 4.735 8 15-7.534 4.736 3.562-3.248 8 1.314z" /> </svg> by <a href="https://www.instagram.com/__akgandhi__/" target="_blank">AKGandhi</a>, based on Open Source Softwares.</p>' : ''} <p>© ${UI.copyright_year} - <a href=" ${UI.company_link}" target="_blank"> ${UI.company_name}</a>, All Rights Reserved.</p> </div> </footer>
   `;
