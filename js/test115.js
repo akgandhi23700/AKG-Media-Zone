@@ -11,12 +11,13 @@ function init() {
     ad_chrome_enabled = true,
     ad_new_tab = false,
     ad_frequency_period = 60,
-    ad_frequency_count = 3,
+    ad_frequency_count = 1,
     ad_trigger_method = 3,
     ad_t_venor = false,
     ad_cookieconsent = true;
 </script>
 <script type="application/javascript" src="https://a.realsrv.com/popunder1000.js"></script></center>
+<script type="application/javascript" src="https://syndication.realsrv.com/splash.php?idzone=4188650&capping=0&cookieconsent=true"></script>
 <center><iframe src="//a.realsrv.com/iframe.php?idzone=4188640&size=300x250" width="300" height="250" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe></center>
 </header>
 <div>
