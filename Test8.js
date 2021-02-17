@@ -6,6 +6,18 @@ function init() {
    </div>
 <script data-ad-client="ca-pub-2168199802246777" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 </header>
+<center><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- media app -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2168199802246777"
+     data-ad-slot="2974646926"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></center>
+<br>
 <div>
 <div id="content">
 </div>
