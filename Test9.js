@@ -121,10 +121,10 @@ function nav(path) {
         <a class="nav-link" href="/${cur}:/">Home</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link"https://telegra.ph/Disclaimer-02-17-3">Disclaimer</a>
+        <a class="nav-link" href=https://telegra.ph/Disclaimer-02-17-3">Disclaimer</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link"https://telegra.ph/DMCA-02-17">DMCA</a>
+        <a class="nav-link" href=https://telegra.ph/DMCA-02-17">DMCA</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="https://forms.gle/NZqezk95pSPYxLF79">Request</a>
