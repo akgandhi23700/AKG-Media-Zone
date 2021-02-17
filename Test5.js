@@ -5,6 +5,12 @@ function init() {
    <div id="nav">
    </div>
 <script data-ad-client="ca-pub-2168199802246777" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script type="text/javascript">
+    window._mNHandle = window._mNHandle || {};
+    window._mNHandle.queue = window._mNHandle.queue || [];
+    medianet_versionId = "3121199";
+</script>
+<script src="https://contextual.media.net/dmedianet.js?cid=8CU8X7ZDE" async="async"></script>
 </header>
 <div>
 <div id="content">
@@ -12,6 +18,17 @@ function init() {
 <br>
 <script data-ad-client="ca-pub-2168199802246777" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <center><a href="https://www.buymeacoffee.com/AKG.Zone"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a pizza&emoji=🍕&slug=AKG.Zone&button_colour=FFDD00&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=ffffff"></a></center>
+<br>
+<div id="155648107">
+    <script type="text/javascript">
+        try {
+            window._mNHandle.queue.push(function (){
+                window._mNDetails.loadTag("155648107", "300x250", "155648107");
+            });
+        }
+        catch (error) {}
+    </script>
+</div>
 <br>
 <footer class="text-muted"> <div class="container">  <p class="float-right"> <a href="#">Back to top</a>  ${UI.credit ? '<p>Designed with <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-heart-fill" fill="red" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" d="M8 1.314C12.438-3.248 23.534 4.735 8 15-7.534 4.736 3.562-3.248 8 1.314z" /> </svg> by <a href="https://www.instagram.com/__akgandhi__/" target="_blank">AKGandhi</a>, based on Open Source Softwares.</p>' : ''} <p>© ${UI.copyright_year} - <a href=" ${UI.company_link}" target="_blank"> ${UI.company_name}</a>, All Rights Reserved.</p> </div> </footer>
   `;
@@ -95,6 +112,12 @@ function nav(path) {
     <ul class="navbar-nav mr-auto">
       <li class="nav-item">
         <a class="nav-link" href="/${cur}:/">Home</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" https://telegra.ph/Disclaimer-02-17-3">Disclaimer</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" https://telegra.ph/DMCA-02-17">DMCA</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="https://forms.gle/NZqezk95pSPYxLF79">Request</a>
