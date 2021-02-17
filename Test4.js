@@ -97,7 +97,7 @@ function nav(path) {
         <a class="nav-link" href="/${cur}:/">Home</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="/${cur}:/">Home</a>
+        <a class="nav-link" href="https://forms.gle/NZqezk95pSPYxLF79">Request</a>
       </li>
 <li class="nav-item">
     <a class="nav-link" href="${UI.contact_link}" target="_blank">Download App</a>
