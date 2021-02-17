@@ -5,25 +5,25 @@ function init() {
    <div id="nav">
    </div>
 <center><script type="application/javascript">
-    var ad_idzone = "4187958",
+    var ad_idzone = "4188644",
     ad_popup_fallback = false,
     ad_popup_force = false,
     ad_chrome_enabled = true,
     ad_new_tab = false,
     ad_frequency_period = 60,
-    ad_frequency_count = 1,
+    ad_frequency_count = 3,
     ad_trigger_method = 3,
     ad_t_venor = false,
     ad_cookieconsent = true;
 </script>
 <script type="application/javascript" src="https://a.realsrv.com/popunder1000.js"></script></center>
-<center><iframe src="//a.realsrv.com/iframe.php?idzone=4188622&size=900x250" width="100%" height="auto" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe></center>
+<center><iframe src="//a.realsrv.com/iframe.php?idzone=4188640&size=300x250" width="300" height="250" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe></center>
 </header>
 <div>
 <div id="content">
 </div>
 <br>
-<center><iframe src="//a.realsrv.com/iframe.php?idzone=4188628&size=900x250" width="100%" height="auto" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe></center>
+<center><iframe src="//a.realsrv.com/iframe.php?idzone=4188642&size=300x250" width="300" height="250" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe></center>
 <br>
 <footer class="text-muted"> <div class="container">  <p class="float-right"> <a href="#">Back to top</a>  ${UI.credit ? '<p>Designed with <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-heart-fill" fill="red" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" d="M8 1.314C12.438-3.248 23.534 4.735 8 15-7.534 4.736 3.562-3.248 8 1.314z" /> </svg> by <a href="https://www.instagram.com/__akgandhi__/" target="_blank">AKGandhi</a>, based on Open Source Softwares.</p>' : ''} <p>© ${UI.copyright_year} - <a href=" ${UI.company_link}" target="_blank"> ${UI.company_name}</a>, All Rights Reserved.</p> </div> </footer>
   `;
