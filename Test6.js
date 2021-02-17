@@ -19,11 +19,11 @@ function init() {
 <script data-ad-client="ca-pub-2168199802246777" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <center><a href="https://www.buymeacoffee.com/AKG.Zone"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a pizza&emoji=🍕&slug=AKG.Zone&button_colour=FFDD00&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=ffffff"></a></center>
 <br>
-<div id="155648107">
+<div id="827378192">
     <script type="text/javascript">
         try {
             window._mNHandle.queue.push(function (){
-                window._mNDetails.loadTag("155648107", "300x250", "155648107");
+                window._mNDetails.loadTag("827378192", "970x250", "827378192");
             });
         }
         catch (error) {}
