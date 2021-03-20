@@ -178,14 +178,7 @@ function list(path) {
   </div>
  <div class="card">
 <h5>
-
-<script type="text/javascript" language="javascript">
-      var aax_size='300x250';
-      var aax_pubname = 'akgandhi23700-21';
-      var aax_src='302';
-    </script>
-    <script type="text/javascript" language="javascript" src="http://c.amazon-adsystem.com/aax2/assoc.js"></script>
-
+<a href="https://www.amazon.in/dp/B077S5CVBQ/?ref=assoc_tag_sept19?actioncode=AINOTH066082819002X&tag=akgandhi23700-21"><img src="https://i.imgur.com/GdJN0io.jpg" alt="AKG Media Zone" style="width:100%;height:auto;"></a>
 </h5>
   <div id="readme_md" style="display:block; padding: 100% 100%;"></div>
   </div>
