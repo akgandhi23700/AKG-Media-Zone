@@ -169,7 +169,14 @@ function requestSearch(params, resultCallback) {
 // Render file list
 function list(path) {
 	var content = `
-  <div class="container"><br>
+  <div class="container">
+ <div class="card">
+<h5>
+<a href="https://www.amazon.in/tryprime?tag=akgandhi23700-21"><img src="https://i.imgur.com/8UZUgKn.jpg" alt="AKG Media Zone" style="width:100%;height:auto;"></a>
+</h5>
+  <div id="readme_md" style="display:block; padding: 100% 100%;"></div>
+  </div>
+<br>
   <div class="card">
   <h5 class="card-header" id="folderne"><input type="text" id="folderne" class="form-control" placeholder="Current Path: Homepage" value="" readonly><script>document.getElementById("folderne").innerHTML='Current Folder: '+decodeURI(this.window.location.href.substring(window.location.href.lastIndexOf('/',window.location.href.lastIndexOf('/')-1))).replace('/','').replace('/','');</script>
   </h5>
