@@ -172,7 +172,7 @@ function list(path) {
   <div class="container"><br>
  <div class="card">
 <h5>
-<a href="https://www.amazon.in/tryprime?tag=akgandhi23700-21"><img src="https://i.imgur.com/8UZUgKn.jpg" alt="AKG Media Zone" style="width:100%;height:auto;"></a>
+<a href="https://www.amazon.in/tryprime?tag=akgzone-21"><img src="https://i.imgur.com/8UZUgKn.jpg" alt="AKG Media Zone" style="width:100%;height:auto;"></a>
 </h5>
   <div id="readme_md" style="display:block;"></div>
   </div>
@@ -184,7 +184,7 @@ function list(path) {
   </div>
  <div class="card">
 <h5>
-<a href="https://www.amazon.in/dp/B077S5CVBQ/?ref=assoc_tag_sept19?actioncode=AINOTH066082819002X&tag=akgandhi23700-21"><img src="https://i.imgur.com/GdJN0io.jpg" alt="AKG Media Zone" style="width:100%;height:auto;"></a>
+<a href="https://www.amazon.in/dp/B077S5CVBQ/?ref=assoc_tag_sept19?actioncode=AINOTH066082819002X&tag=akgzone-21"><img src="https://i.imgur.com/v37WXNu.jpg" alt="AKG Media Zone" style="width:100%;height:auto;"></a>
 </h5>
   <div id="readme_md" style="display:block;"></div>
   </div>
