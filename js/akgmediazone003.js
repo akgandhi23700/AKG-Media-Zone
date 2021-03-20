@@ -7,26 +7,10 @@ function init() {
 <header >
    <div id="nav">
    </div>
-	<center>
-<script type="text/javascript" language="javascript">
-      var aax_size='728x90';
-      var aax_pubname = 'akgandhi23700-21';
-      var aax_src='302';
-    </script>
-    <script type="text/javascript" language="javascript" src="http://c.amazon-adsystem.com/aax2/assoc.js"></script>
-</center>
 </header>
 <div>
 <div id="content">
 </div>
-<center>
-<script type="text/javascript" language="javascript">
-      var aax_size='728x90';
-      var aax_pubname = 'akgandhi23700-21';
-      var aax_src='302';
-    </script>
-    <script type="text/javascript" language="javascript" src="http://c.amazon-adsystem.com/aax2/assoc.js"></script>
-</center>
 <br>
 <footer class="text-muted"> <div class="container">  <p class="float-right"> <a href="#">Back to top</a>  ${UI.credit ? '<p>Designed with <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-heart-fill" fill="red" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" d="M8 1.314C12.438-3.248 23.534 4.735 8 15-7.534 4.736 3.562-3.248 8 1.314z" /> </svg> by <a href="https://www.instagram.com/__akgandhi__/" target="_blank">AKGandhi</a>, based on Open Source Softwares.</p>' : ''} <p>© ${UI.copyright_year} - <a href=" ${UI.company_link}" target="_blank"> ${UI.company_name}</a>, All Rights Reserved.</p> </div> </footer>
 `;
@@ -193,7 +177,16 @@ function list(path) {
   </div>
   </div>
  <div class="card">
-    <h5>  hi  </h5>
+    <h5>  
+	<center>
+<script type="text/javascript" language="javascript">
+      var aax_size='728x90';
+      var aax_pubname = 'akgandhi23700-21';
+      var aax_src='302';
+    </script>
+    <script type="text/javascript" language="javascript" src="http://c.amazon-adsystem.com/aax2/assoc.js"></script>
+</center>
+    </h5>
   <div id="readme_md" style="display:block; padding: 100% 100%;"></div>
   </div>
   </div>
