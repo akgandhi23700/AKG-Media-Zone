@@ -193,7 +193,7 @@ function list(path) {
   </div>
   </div>
   <div class="card">
-  <div id="readme_md" style="display:none; padding: 20px 20px;"></div>
+  <div id="readme_md" style="display:block; padding: 20px 20px;"></div>
   </div>
   </div>
   `;
