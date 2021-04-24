@@ -4,6 +4,7 @@
 function init() {
 	document.siteName = $('title').html();
 	var html = `
+<iframe data-aa="1619039" src="//acceptable.a-ads.com/1619039" scrolling="no" style="border:0px; padding:0; width:100%; height:100%; overflow:hidden" allowtransparency="true"></iframe>
 <header >
    <div id="nav">
    </div>
