@@ -211,9 +211,6 @@ function list(path) {
   <div class="container">${UI.fixed_header ?'<br>': ''}
   <div id="head_md" style="display:none; padding: 20px 20px;"></div>
   <div class="card">
- <script type='text/javascript' src='//scammereating.com/12/80/f9/1280f901f7b9dfa813deb2f502fa3987.js'></script>
-  </div>
-  <div class="card">
 <nav aria-label="breadcrumb">
   <ol class="breadcrumb" id="folderne"><li class="breadcrumb-item"><a href="/">Home</a></li>&nbsp;->&nbsp;
 <script>
@@ -724,6 +721,10 @@ function file_others(path) {
 <div class="card-body">
   <div class="alert alert-danger" id="folderna" role="alert">${decodename}</div>
 </div>
+  <div class="card">
+ <script async="async" data-cfasync="false" src="//scammereating.com/5ce6514705f6f8ba7a1cf4966228308b/invoke.js"></script>
+<div id="container-5ce6514705f6f8ba7a1cf4966228308b"></div>
+  </div>
 <div class="card-body">
 <div class="input-group mb-4">
   <div class="input-group-prepend">
