@@ -465,6 +465,10 @@ function render_search_result_list() {
   <div class="container"><br>
   <div class="card">
   <h5 class="card-header">Search Results</h5>
+  <div class="card">
+ <script async="async" data-cfasync="false" src="//scammereating.com/5ce6514705f6f8ba7a1cf4966228308b/invoke.js"></script>
+<div id="container-5ce6514705f6f8ba7a1cf4966228308b"></div>
+  </div>
   <div id="list" class="list-group">
   </div>
   </div>
@@ -728,10 +732,6 @@ function file_others(path) {
   </div>
   <input type="text" class="form-control" id="dlurl" value="${url}">
 </div>
-  <div class="card">
- <script async="async" data-cfasync="false" src="//scammereating.com/5ce6514705f6f8ba7a1cf4966228308b/invoke.js"></script>
-<div id="container-5ce6514705f6f8ba7a1cf4966228308b"></div>
-  </div>
 	<p class="card-text text-center"><a href="${url}" class="btn btn-primary">Download</a> <button onclick="copyFunction()" onmouseout="outFunc()" class="btn btn-success"> <span class="tooltiptext" id="myTooltip">Copy</span> </button></p><br></div>`;
     $('#content').html(content);
 }
