@@ -211,16 +211,7 @@ function list(path) {
   <div class="container">${UI.fixed_header ?'<br>': ''}
   <div id="head_md" style="display:none; padding: 20px 20px;"></div>
   <div class="card">
- <script type="text/javascript">
-	atOptions = {
-		'key' : '9663c747f0d72dac702699a9f2c0d8eb',
-		'format' : 'iframe',
-		'height' : 90,
-		'width' : 728,
-		'params' : {}
-	};
-	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://scammereating.com/9663c747f0d72dac702699a9f2c0d8eb/invoke.js"></scr' + 'ipt>');
-</script>
+ <script type='text/javascript' src='//scammereating.com/12/80/f9/1280f901f7b9dfa813deb2f502fa3987.js'></script>
   </div>
   <div class="card">
 <nav aria-label="breadcrumb">
