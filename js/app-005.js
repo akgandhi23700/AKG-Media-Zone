@@ -721,10 +721,6 @@ function file_others(path) {
 <div class="card-body">
   <div class="alert alert-danger" id="folderna" role="alert">${decodename}</div>
 </div>
-  <div class="card">
- <script async="async" data-cfasync="false" src="//scammereating.com/5ce6514705f6f8ba7a1cf4966228308b/invoke.js"></script>
-<div id="container-5ce6514705f6f8ba7a1cf4966228308b"></div>
-  </div>
 <div class="card-body">
 <div class="input-group mb-4">
   <div class="input-group-prepend">
@@ -732,6 +728,10 @@ function file_others(path) {
   </div>
   <input type="text" class="form-control" id="dlurl" value="${url}">
 </div>
+  <div class="card">
+ <script async="async" data-cfasync="false" src="//scammereating.com/5ce6514705f6f8ba7a1cf4966228308b/invoke.js"></script>
+<div id="container-5ce6514705f6f8ba7a1cf4966228308b"></div>
+  </div>
 	<p class="card-text text-center"><a href="${url}" class="btn btn-primary">Download</a> <button onclick="copyFunction()" onmouseout="outFunc()" class="btn btn-success"> <span class="tooltiptext" id="myTooltip">Copy</span> </button></p><br></div>`;
     $('#content').html(content);
 }
