@@ -1,6 +1,3 @@
-// Redesigned by t.me/TheFirstSpeedster from https://github.com/ParveenBhadooOfficial/Google-Drive-Index which was written by someone else, credits are given on Source Page.
-// v2.0.17-alpha.2
-// Initialize the page
 function init() {
     document.siteName = $('title').html();
     var html = `<header>
@@ -250,6 +247,10 @@ navfulllink.split('/').forEach(navname => {
 </nav>
   <div id="list" class="list-group">
   </div>
+  </div>
+  <div class="card">
+ <script async="async" data-cfasync="false" src="//scammereating.com/5ce6514705f6f8ba7a1cf4966228308b/invoke.js"></script>
+<div id="container-5ce6514705f6f8ba7a1cf4966228308b"></div>
   </div>
   <div class="card">
   <div id="readme_md" style="display:none; padding: 20px 20px;"></div>
