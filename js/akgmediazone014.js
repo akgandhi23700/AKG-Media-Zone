@@ -181,8 +181,16 @@ function list(path) {
   </div>
   </div>
  <div class="card">
-<script async="async" data-cfasync="false" src="//scammereating.com/5ce6514705f6f8ba7a1cf4966228308b/invoke.js"></script>
-<div id="container-5ce6514705f6f8ba7a1cf4966228308b"></div>
+<script type="text/javascript">
+	atOptions = {
+		'key' : '9663c747f0d72dac702699a9f2c0d8eb',
+		'format' : 'iframe',
+		'height' : 90,
+		'width' : 728,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://scammereating.com/9663c747f0d72dac702699a9f2c0d8eb/invoke.js"></scr' + 'ipt>');
+</script>
   </div>
   </div>
   `;
