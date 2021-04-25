@@ -4,7 +4,6 @@
 function init() {
 	document.siteName = $('title').html();
 	var html = `
-<iframe data-aa="1619039" src="//acceptable.a-ads.com/1619039" scrolling="no" style="border:0px; padding:0; width:100%; height:100%; overflow:hidden" allowtransparency="true"></iframe>
 <header >
    <div id="nav">
    </div>
@@ -173,8 +172,8 @@ function list(path) {
   <div class="container"><br>
  <div class="card">
 <h5>
-<a href="https://www.amazon.in/tryprime?tag=akgzone-21"><img src="https://i.imgur.com/8UZUgKn.jpg" alt="AKG Media Zone" style="width:100%;height:auto;"></a>
-</h5>
+<script async="async" data-cfasync="false" src="//scammereating.com/5ce6514705f6f8ba7a1cf4966228308b/invoke.js"></script>
+<div id="container-5ce6514705f6f8ba7a1cf4966228308b"></div></h5>
   <div id="readme_md" style="display:block;"></div>
   </div>
   <div class="card">
@@ -185,8 +184,8 @@ function list(path) {
   </div>
  <div class="card">
 <h5>
-<a href="https://www.amazon.in/dp/B077S5CVBQ/?ref=assoc_tag_sept19?actioncode=AINOTH066082819002X&tag=akgzone-21"><img src="https://i.imgur.com/v37WXNu.jpg" alt="AKG Media Zone" style="width:100%;height:auto;"></a>
-</h5>
+<script async="async" data-cfasync="false" src="//scammereating.com/5ce6514705f6f8ba7a1cf4966228308b/invoke.js"></script>
+<div id="container-5ce6514705f6f8ba7a1cf4966228308b"></div></h5>
   <div id="readme_md" style="display:block;"></div>
   </div>
   </div>
