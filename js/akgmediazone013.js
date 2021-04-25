@@ -173,7 +173,6 @@ function list(path) {
  <div class="card">
 <script async="async" data-cfasync="false" src="//scammereating.com/5ce6514705f6f8ba7a1cf4966228308b/invoke.js"></script>
 <div id="container-5ce6514705f6f8ba7a1cf4966228308b"></div>
-  <div id="readme_md" style="display:block;"></div>
   </div>
   <div class="card">
   <h5 class="card-header" id="folderne"><input type="text" id="folderne" class="form-control" placeholder="Current Path: Homepage" value="" readonly><script>document.getElementById("folderne").innerHTML='Current Folder: '+decodeURI(this.window.location.href.substring(window.location.href.lastIndexOf('/',window.location.href.lastIndexOf('/')-1))).replace('/','').replace('/','');</script>
@@ -184,7 +183,6 @@ function list(path) {
  <div class="card">
 <script async="async" data-cfasync="false" src="//scammereating.com/5ce6514705f6f8ba7a1cf4966228308b/invoke.js"></script>
 <div id="container-5ce6514705f6f8ba7a1cf4966228308b"></div>
-  <div id="readme_md" style="display:block;"></div>
   </div>
   </div>
   `;
