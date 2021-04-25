@@ -100,12 +100,23 @@ function nav(path) {
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
-  <div>
-    <ul>
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
       <li class="nav-item">
-        <a class="nav-link">Home</a>
+        <a class="nav-link" href="/${cur}:/">Home</a>
       </li>`;
-    
+    var names = window.drive_names;
+    var drive_name = window.drive_names[cur];
+
+    // Dropdown to select different drive roots.
+    html += `<li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">${drive_name}</a><div class="dropdown-menu" aria-labelledby="navbarDropdown">`;
+    names.forEach((name, idx) => {
+        html += `<a class="dropdown-item"  href="/${idx}:/">${name}</a>`;
+    });
+    html += `</div></li>`;
+
+    html += `<li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Current Path</a><div class="dropdown-menu" aria-labelledby="navbarDropdown"><a class="dropdown-item"  href="/">> Home</a>`;
+  
     if (!model.is_search_page) {
         var arr = path.trim('/').split('/');
         var p = '/';
