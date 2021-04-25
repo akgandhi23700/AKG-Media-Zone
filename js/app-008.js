@@ -22,7 +22,7 @@ function init() {
   </div>
 </div>
 <br>
-<footer class="footer text-muted"> <div class="container"> <p class="float-right"> <a href="#">🔝</a> </p> ${UI.credit ? '<p>Redesigned with <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-heart-fill" fill="red" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" d="M8 1.314C12.438-3.248 23.534 4.735 8 15-7.534 4.736 3.562-3.248 8 1.314z" /> </svg> by <a href="https://www.instagram.com/__akgandhi__/" target="_blank">AKGandhi</a>, based on Open Source Softwares.</p>' : ''} <p>© ${UI.copyright_year} - <a href=" ${UI.company_link}" target="_blank"> ${UI.company_name}</a>, All Rights Reserved.</p> </div> </footer>
+<footer class="footer text-muted"> <div class="container"> <p class="float-right"> <a href="#">Back 2 toP</a> </p> ${UI.credit ? '<p>Redesigned with <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-heart-fill" fill="red" xmlns="http://www.w3.org/2000/svg"> <path fill-rule="evenodd" d="M8 1.314C12.438-3.248 23.534 4.735 8 15-7.534 4.736 3.562-3.248 8 1.314z" /> </svg> by <a href="https://www.instagram.com/__akgandhi__/" target="_blank">AKGandhi</a>, based on Open Source Softwares.</p>' : ''} <p>© ${UI.copyright_year} - <a href=" ${UI.company_link}" target="_blank"> ${UI.company_name}</a>, All Rights Reserved.</p> </div> </footer>
   `;
     $('body').html(html);
 }
@@ -105,18 +105,7 @@ function nav(path) {
       <li class="nav-item">
         <a class="nav-link" href="/${cur}:/">Home</a>
       </li>`;
-    var names = window.drive_names;
-    var drive_name = window.drive_names[cur];
-
-    // Dropdown to select different drive roots.
-    html += `<li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">${drive_name}</a><div class="dropdown-menu" aria-labelledby="navbarDropdown">`;
-    names.forEach((name, idx) => {
-        html += `<a class="dropdown-item"  href="/${idx}:/">${name}</a>`;
-    });
-    html += `</div></li>`;
-
-    html += `<li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Current Path</a><div class="dropdown-menu" aria-labelledby="navbarDropdown"><a class="dropdown-item"  href="/">> Home</a>`;
-
+    
     if (!model.is_search_page) {
         var arr = path.trim('/').split('/');
         var p = '/';
