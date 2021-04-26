@@ -5705,7 +5705,7 @@
             ads: {
                 enabled: true,
                 publisherId: "",
-                tagUrl: "https://www.videosprofitnetwork.com/watch.xml?key=91bc9b5b11bc3079aafaa4dcec94bbd8"
+                tagUrl: "https://syndication.exdynsrv.com/splash.php?idzone=4259002"
             },
             previewThumbnails: {
                 enabled: !1,
