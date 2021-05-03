@@ -3,9 +3,7 @@ function init() {
     var html = `<header>
    <div id="nav">
    </div>
-</header>
-<div>
-<div id="content">
+<script type="application/javascript" src="https://syndication.realsrv.com/splash.php?idzone=4188650&capping=0"></script>
 <div class="card">
 <script type="application/javascript">
     var ad_idzone = "4188640",
@@ -17,6 +15,9 @@ function init() {
     <iframe src="https://syndication.realsrv.com/ads-iframe-display.php?idzone=4188640&output=noscript" width="300" height="250" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 </noscript>
 </div>
+</header>
+<div>
+<div id="content">
 </div>
 <div class="modal fade" id="staticBackdrop" data-backdrop="static" tabindex="-1" role="dialog" aria-labelledby="staticBackdropLabel" aria-hidden="true">
   <div class="modal-dialog" role="document">
