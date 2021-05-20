@@ -9,10 +9,6 @@ function init() {
 </header>
 
 <div class="container" style="width: auto;"> <p class="float-sm-end"> <a>
-<script data-ad-client="ca-pub-2168199802246777" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-</a> </p> </div>
-
-<div class="container" style="width: auto;"> <p class="float-sm-end"> <a>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- akg--zone_sidebar_AdSense2_1x1_as -->
 <ins class="adsbygoogle"
