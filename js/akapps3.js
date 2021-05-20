@@ -6,8 +6,7 @@ function init() {
     var html = `<header>
    <div id="nav">
    </div>
-</header>
-
+</header><br>
 <div class="container" style="width: auto;"> <p class="float-sm-end"> <a>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- akg--zone_sidebar_AdSense2_1x1_as -->
@@ -21,7 +20,6 @@ function init() {
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 </a> </p> </div>
-
 <div>
 <div id="content" style="padding-top: ${UI.header_padding}px;${UI.fixed_footer ?' padding-bottom: clamp(170px, 100%, 300px);': ''}">
 </div>
