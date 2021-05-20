@@ -313,6 +313,21 @@ function list(path) {
   content += `</ol>
   </nav>
   </div>
+  
+    <div id="list">
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- akg--zone_sidebar_AdSense2_1x1_as -->
+    <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2168199802246777"
+     data-ad-slot="7607238452"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+    </div>
+    
     <div id="list" class="list-group">
     </div>
   	<div class="${UI.file_count_alert_class} text-center d-none" role="alert" id="count">Total <span class="number text-center"></span> items</div>
