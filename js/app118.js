@@ -8,20 +8,6 @@ function init() {
    </div>
 </header>
 
-<div class="container" style="width: auto;"> <p class="float-sm-end"> <a>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- akg--zone_sidebar_AdSense2_1x1_as -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-2168199802246777"
-     data-ad-slot="7607238452"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-</a> </p> </div>
-
 <div>
 <div id="content" style="padding-top: ${UI.header_padding}px;${UI.fixed_footer ?' padding-bottom: clamp(170px, 100%, 300px);': ''}">
 </div>
