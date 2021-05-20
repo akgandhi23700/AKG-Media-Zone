@@ -7,20 +7,6 @@ function init() {
    <div id="nav">
    </div>
 </header>
-<script data-ad-client="ca-pub-2168199802246777" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<br/>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- akg--zone_sidebar_AdSense2_1x1_as -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-2168199802246777"
-     data-ad-slot="7607238452"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-<br/>
 <div>
 <div id="content" style="padding-top: ${UI.header_padding}px;${UI.fixed_footer ?' padding-bottom: clamp(170px, 100%, 300px);': ''}">
 </div>
@@ -254,19 +240,6 @@ function requestSearch(params, resultCallback) {
         page_token: params['page_token'] || null,
         page_index: params['page_index'] || 0
     };
-  
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- akg--zone_sidebar_AdSense2_1x1_as -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-2168199802246777"
-     data-ad-slot="7607238452"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-  
     $.post(`/${window.current_drive_order}:search`, p, function(data, status) {
         var res = jQuery.parseJSON(gdidecode(read(data)));
         if (res && res.data) {
@@ -316,8 +289,8 @@ function list(path) {
   
     <div id="list">
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-    <!-- akg--zone_sidebar_AdSense2_1x1_as -->
-    <ins class="adsbygoogle"
+     <!-- akg--zone_sidebar_AdSense2_1x1_as -->
+     <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2168199802246777"
      data-ad-slot="7607238452"
@@ -325,9 +298,9 @@ function list(path) {
      data-full-width-responsive="true"></ins>
      <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-    </script>
+     </script>
     </div>
-    
+  
     <div id="list" class="list-group">
     </div>
   	<div class="${UI.file_count_alert_class} text-center d-none" role="alert" id="count">Total <span class="number text-center"></span> items</div>
